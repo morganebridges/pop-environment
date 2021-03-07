@@ -4,4 +4,6 @@ alias gcb="git checkout -b"
 alias docker="sudo docker"
 alias apt-get="sudo apt-get"
 alias apt="sudo apt"
+alias docker-compose="sudo docker-compose"
+alias sh="bash"
 

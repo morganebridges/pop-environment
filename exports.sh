@@ -1,0 +1,1 @@
+export DARCENCRYPT_PASSWORD=ce2ed1ad-1bdb-4a53-a787-f921700b2eb1
